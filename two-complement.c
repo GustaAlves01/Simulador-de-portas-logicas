@@ -1,11 +1,13 @@
 #include <stdio.h>
 
-int main(){
+int main() {
 
-int n1 = 4;
-int n2 = 2;
-int soma = n1+n2;
+    int a = 6;
+    for (int i = 15; i >= 0; i--) {
+        printf("%d", ((a>>i) & 1)^1);
+    }
 
-printf("%d\n",soma);
-return 0;
+    printf("\n");
+    printf("%d", sizeof(a));
+    return 0;
 }
