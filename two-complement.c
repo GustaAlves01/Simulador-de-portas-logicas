@@ -12,8 +12,4 @@ int main() {
     return 0;
 }
 
-int sum(a,b){
-    for (int i = 3; i>=0, i--){
-    
-    }
-}
+
