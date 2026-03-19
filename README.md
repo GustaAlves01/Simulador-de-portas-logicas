@@ -1,1 +1,1 @@
-Repositorio focado em exercicios e no desenvolvimento de um interpretador e simulador de portas logicas em C
+Repositorio focado em exercicios, desenvolvimento de um interpretador e simulador de portas logicas em C
